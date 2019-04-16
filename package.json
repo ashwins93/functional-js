@@ -1,0 +1,23 @@
+{
+  "name": "functional-js",
+  "version": "1.0.0",
+  "description": "This repo contains a few of my experiments with functional programming and JavaScript. It is based on various resources I found online. If you wanna learn FP, a good place to start would be [Kyle Simpson's Functional Light JS](https://github.com/getify/Functional-Light-JS/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashwins93/functional-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashwins93/functional-js/issues"
+  },
+  "homepage": "https://github.com/ashwins93/functional-js#readme",
+  "dependencies": {
+    "crocks": "^0.11.1"
+  }
+}
